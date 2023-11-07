@@ -1,2 +1,6 @@
 [context.production.environment]
-HUGO_VERSION = "0.100.2"https://github.com/DigitalHygiene/desert
+HUGO_VERSION = "0.100.2"
+
+[build]
+  command = "hugo"
+  publish = "public"
