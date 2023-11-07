@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on john doe</title>
+    <link>https://www.dylanbrandon.com/posts/</link>
+    <description>Recent content in Posts on john doe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 05 Oct 2023 00:26:11 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.dylanbrandon.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title> first line </title>
+      <link>https://www.dylanbrandon.com/first-line/</link>
+      <pubDate>Thu, 05 Oct 2023 00:26:11 -0500</pubDate>
+      
+      <guid>https://www.dylanbrandon.com/first-line/</guid>
+      <description>&lt;p&gt;What do you when you&amp;rsquo;re a small new division in facebook trying to make a name for yourself? how do you prove that your team is fun and innovative and that other engineers should want to work on it?&lt;/p&gt;
+&lt;p&gt;This is a story of underdogs, napkins and how the games team got a bigger war room.&lt;/p&gt;
+&lt;p&gt;Stay up until 6 in the morning and do something that&amp;rsquo;s not your job.&lt;/p&gt;
+&lt;p&gt;Why?&lt;/p&gt;
+&lt;p&gt;Our philosphy on perks is that we want to provide ser-vices&lt;/p&gt;
+&lt;p&gt;Lots of you saw the TechCrunch story over the weekend claiming&lt;/p&gt;
+&lt;p&gt;Flexoki is an inky color scheme for prose and code. Flexoki is designed for reading and writing on digital screens. It is inspired by analog printing inks and warm shades of paper.&lt;/p&gt;
+&lt;p&gt;Flexoki is minimalistic and high-contrast. The colors are calibrated for legibility and perceptual balance across devices and when switching between light and dark modes.&lt;/p&gt;
+&lt;p&gt;Flexoki is open-source under the MIT license. Flexoki is available for many popular apps listed below, including Obsidian using my theme Minimal.&lt;/p&gt;
+&lt;p&gt;Color palette
+Flexokiß is the color palette used on this site. To switch between light and dark mode press the D key or use the toggle at the top of the page. Click the swatches to copy a color to your clipboard.ßßßß                  z&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Always learning, always teaching</title>
+      <link>https://www.dylanbrandon.com/always-learning-always-teaching/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dylanbrandon.com/always-learning-always-teaching/</guid>
+      <description>&lt;p&gt;You have a typo in the image link. You have an images directory,  reference &amp;ldquo;content/post/image/&amp;hellip;&amp;rdquo; without thfeopdefkdefiko0sdef iko0 That won&amp;rsquo;t fix it for you though.
+www&lt;/p&gt;
+&lt;p&gt;Option 1. Put all of your images in the static/ directory. Then reference the image file with a leading slash&lt;/p&gt;
+&lt;h3 id=&#34;imagehttpsuser-imagesgithubusercontentcom57343979179323758-bb350dcb-1310-45a9-a668-b52759a54b04png&#34;&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/57343979/179323758-bb350dcb-1310-45a9-a668-b52759a54b04.png&#34; alt=&#34;image&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://images.firstpost.com/wp-content/uploads/2019/02/Moon.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif&#34; alt=&#34;Alt Text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://twitter.com/i/status/1337746576828215297.gif&#34; alt=&#34;Alt Text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://media3.giphy.com/media/Ti0piXDts4s6q2sRCo/giphy.gif&#34; alt=&#34;at text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://media0.giphy.com/media/ZcRbodzCGKoV6tFMsp/giphy.gif&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;how to&lt;/p&gt;
+&lt;h1 id=&#34;imagehttpswwwnitchcomcontentposts1657573268-720wjpg&#34;&gt;&lt;img src=&#34;https://www.nitch.com/content/posts/1657573268-720w.jpg&#34; alt=&#34;image&#34;&gt;&lt;/h1&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://www.dylanbrandon.com/Users/dylanb/Desktop/desert/assets/images/treewithcircle.jpg&#34;
+         alt=&#34;Albuquerque, New Mexico&#34;&gt;
+    &lt;figcaption&gt;A single track trail outside of Albuquerque, New Mexico.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.dylanbrandon.com/treewithcircle.jpg&#34; alt=&#34;Tree with Circle&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://www.dylanbrandon.com/treewithcircle.jpg&#34; alt=&#34;Tree with Circle&#34; width=&#34;200&#34; height=&#34;150&#34;&gt;
+&lt;p&gt;This is some text in your Markdown content.&lt;/p&gt;
+&lt;img src=&#34;https://www.dylanbrandon.com/treewithcircle.jpg&#34; alt=&#34;Tree with Circle&#34; width=&#34;200&#34; height=&#34;150&#34;&gt;
+&lt;p&gt;More text and content here.
+&lt;img src=&#34;static/treewithcircle.jpg&#34; alt=&#34;Tree with Circle&#34; width=&#34;200&#34; height=&#34;150&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://www.dylanbrandon.com/treewithcircle.jpg&#34; alt=&#34;Tree with Circle&#34; width=&#34;500&#34; height=&#34;400&#34;&gt;
+&lt;iframe src=&#34;border:none;&#34; width=&#34;100%&#34; height=&#34;590&#34; src=&#34;https://www.are.na/dylan-brandon-a5dwv61bx7u/dylan-brandon-s-library/internet-explorers/embed&#34; title=&#34;waterdylan”&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;border:none;&#34; width=&#34;100%&#34; height=&#34;590&#34; src=&#34;https://www.are.na/tranquility-2099/hypercircuit-x/embed&#34; title=&#34;Gemma Copeland’s Are.na channel “Internet Explorers”&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Joseph Jacks</title>
+      <link>https://www.dylanbrandon.com/joseph-jacks/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dylanbrandon.com/joseph-jacks/</guid>
+      <description>&lt;p&gt;Flexoki is an inky color scheme for prose and code. Flexoki is designed for reading and writing on digital screens. It is inspired by analog printing inks and warm shades of paper.&lt;/p&gt;
+&lt;p&gt;Flexoki is minimalistic and high-contrast. The colors are calibrated for legibility and perceptual balance across devices and when switching between light and dark modes.&lt;/p&gt;
+&lt;p&gt;Flexoki is open-source under the MIT license. Flexoki is available for many popular apps listed below, including Obsidian using my theme Minimal.&lt;/p&gt;
+&lt;p&gt;Color palette
+Flexokiß is the color palette used on this site. To switch between light and dark mode press the D key or use the toggle at the top of the page. Click the swatches to copy a color to your clipboard.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,50 @@
+baseURL = 'https://www.dylanbrandon.com'
+title = 'john doe'
+theme="etch-hugo"
+languageCode = "en-US"
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+
+[params.resized]
+   width = 50
+    height = 50
+
+
+
+[params]
+  description = "Copyright"
+  copyright = "Copyright © 2022 dylan brandon"
+  dark = "on"
+  highlight = true
+ 
+ 
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    title = "posts"
+    url = "/posts/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
+    weight = 20
+
+
+  
+
+[permalinks]
+  posts = "/:title/"
+
+[markup.goldmark.renderer]
+  # Allow HTML in Markdown
+  unsafe = true
+
+  [markup.tableOfContents]
+    ordered = true

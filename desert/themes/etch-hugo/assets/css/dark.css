@@ -1,0 +1,51 @@
+{{ if not (eq .Site.Params.dark "on") }}
+    @media (prefers-color-scheme: dark) {
+{{ end }}
+
+html {
+    scrollbar-color: #6c6c6c #2e2e2e;
+}
+
+body {
+    color: rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+header#banner a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+header#banner nav ul li a {
+    color: rgb(255, 255, 255);
+}
+
+main#content a {
+    color: rgb(206, 205, 195);
+}
+
+main#content p {
+    color: rgb(206, 205, 195);
+}
+
+main#content hr {
+    background: rgb(40, 39, 38);
+}
+
+main#content #toc h4 {
+    color: rgb(206, 205, 195);
+}
+
+main#content ul#posts small {
+    color: rgb(87, 86, 83);
+}
+
+main#content ul#posts li a:hover {
+    color: rgb(0, 255, 0);
+}
+
+main#content header#post-header div {
+    color: rgb(255, 191, 0);
+}
